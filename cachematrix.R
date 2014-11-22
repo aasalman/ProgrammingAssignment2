@@ -9,7 +9,7 @@
 makeCacheMatrix <- function(x = matrix()) {
 
 # makeCacheMatrix
-# fucntion will take invertible matrix and return a list of functions:
+# function will take invertible matrix and return a list of functions:
 # 1. set matrix
 # 2. get matrix
 # 3. set inverse
